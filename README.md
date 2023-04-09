@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
     <div id="badges">
-      <a href="linkedin.com/in/liseth-mdc/">
+     
+      <a href="https://www.linkedin.com/in/liseth-mdc/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
     </div>
@@ -14,7 +15,7 @@
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
- 📫 How to reach me:  <a href="linkedin.com/in/liseth-mdc/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+ 📫 How to reach me:  <a href="https://www.linkedin.com/in/liseth-mdc/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
  
  🔭 I’m currently looking for a job.
  
